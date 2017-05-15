@@ -1,4 +1,5 @@
 package edu.stanford.nlp.international.arabic.parsesegment; 
+
 import edu.stanford.nlp.util.logging.Redwood;
 
 import java.io.*;
